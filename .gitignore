@@ -1,0 +1,11 @@
+# Archivos molestos
+*.tar*
+*.csv
+*.png
+*.md*
+*.pdf
+*.zip
+pdf*
+muestra
+*save
+*checkpoints*
